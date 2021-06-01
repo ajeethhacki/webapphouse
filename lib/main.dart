@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:webflutterprojectcurrent/LandingPage/LandingPage.dart';
-import 'package:webflutterprojectcurrent/Navbar/Navbar.dart';
+import 'package:houseapp/LandingPage/LandingPage.dart';
+import 'package:houseapp/Navbar/Navbar.dart';
 
 void main() {
   runApp(MyApp());

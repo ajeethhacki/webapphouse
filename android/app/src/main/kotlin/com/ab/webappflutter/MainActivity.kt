@@ -1,4 +1,4 @@
-package com.ab.webflutterprojectcurrent
+package com.ab.webappflutter
 
 import io.flutter.embedding.android.FlutterActivity
 

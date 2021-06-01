@@ -1,6 +1,6 @@
 {
-    "name": "webflutterprojectcurrent",
-    "short_name": "webflutterprojectcurrent",
+    "name": "webappflutter",
+    "short_name": "webappflutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

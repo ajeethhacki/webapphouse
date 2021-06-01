@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ab.webflutterprojectcurrent">
+    package="com.ab.houseapp">
    <application
-        android:label="webflutterprojectcurrent"
+        android:label="houseapp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
